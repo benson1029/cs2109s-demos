@@ -2,3 +2,5 @@ numpy
 qpsolvers
 cvxopt
 matplotlib
+scikit-learn
+scipy

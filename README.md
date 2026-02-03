@@ -4,7 +4,7 @@
 
 ### Tutorial 3: Linear Regression with Ill-conditioned Matrices
 
-To be available
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-demos/HEAD?urlpath=%2Fdoc%2Ftree%2F25s2_tut03_ill_conditioned.ipynb)
 
 ## AY 25/26 Semester 1
 
