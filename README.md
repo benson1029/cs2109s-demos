@@ -10,6 +10,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-demos/HEAD?urlpath=%2Fdoc%2Ftree%2F25s2_tut04_uncertainity.ipynb)
 
+### Tutorial 5: Primal and Dual Representation of Linear Regression
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benson1029/cs2109s-demos/HEAD?urlpath=%2Fdoc%2Ftree%2F25s2_tut05_linear_dual.ipynb)
+
 ## AY 25/26 Semester 1
 
 ### Tutorial 5: Solving SVM with Quadratic Programming
